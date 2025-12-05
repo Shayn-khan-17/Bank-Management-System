@@ -1,1 +1,2 @@
 # Bank-Management-System
+This C++ project is a Bank & ATM Management System that includes complete account management features. It allows creating new users, logging in as existing users, depositing and withdrawing money, transferring funds, paying bills, and searching or editing user records. The system also includes ATM features such as balance checking, withdrawing through ATM, and viewing account details. All user data is stored and managed using text files, making this system a simple file-handling based banking application.
